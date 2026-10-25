@@ -1,3 +1,13 @@
+# ContextQA Testing Lab — React payments
+
+Public educational source fork. **[Start the lab →](lab/README.md)** · [Scenario checklist](lab/scenarios.json) · [Central learning hub](https://github.com/contextqaai/testing-lab)
+
+Hosted full-stack sessions and recorded ContextQA results are being prepared. No ContextQA run result is claimed by this repository.
+
+Original project: [cypress-io/cypress-realworld-app](https://github.com/cypress-io/cypress-realworld-app). Original attribution and license remain below and in the repository. ContextQA lab materials are additions; upstream authors do not endorse them.
+
+## Upstream project documentation
+
 <p align="center">
   <!-- We use two SVGs here so that this displays correctly
     on Github. This might not look right in other Markdown previewers. -->

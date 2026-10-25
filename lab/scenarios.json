@@ -1,0 +1,39 @@
+{
+  "track": "React payments",
+  "upstream": "https://github.com/cypress-io/cypress-realworld-app",
+  "upstream_commit": "0729f68ac220f7cda4ad09c5693dba11d7c532c6",
+  "hosted_url": null,
+  "contextqa_run_verified": false,
+  "scenarios": [
+    {
+      "id": "testing-lab-react-payments-01",
+      "title": "Login and rejection",
+      "assertion": "Valid seeded credentials open the account; an incorrect password does not.",
+      "status": "exercise-not-executed"
+    },
+    {
+      "id": "testing-lab-react-payments-02",
+      "title": "Transaction recipient",
+      "assertion": "A simulated transaction is associated with the selected recipient.",
+      "status": "exercise-not-executed"
+    },
+    {
+      "id": "testing-lab-react-payments-03",
+      "title": "Amount validation",
+      "assertion": "Invalid amounts are rejected without creating a transaction.",
+      "status": "exercise-not-executed"
+    },
+    {
+      "id": "testing-lab-react-payments-04",
+      "title": "Transaction history",
+      "assertion": "The submitted amount and description appear in the expected history.",
+      "status": "exercise-not-executed"
+    },
+    {
+      "id": "testing-lab-react-payments-05",
+      "title": "Filtering",
+      "assertion": "A known seeded transaction appears only under its matching filter.",
+      "status": "exercise-not-executed"
+    }
+  ]
+}
