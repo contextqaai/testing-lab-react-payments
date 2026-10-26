@@ -1,3 +1,5 @@
+<a href="https://contextqaai.github.io/testing-lab/"><img src="lab/assets/contextqa-logo.svg" alt="ContextQA" width="200"></a>
+
 # ContextQA Testing Lab — React payments
 
 Public educational source fork. **[Start the lab →](lab/README.md)** · [Scenario checklist](lab/scenarios.json) · [Central learning hub](https://github.com/contextqaai/testing-lab)
@@ -314,3 +316,9 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
 This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!!
+
+## ContextQA learning resources
+
+[Public learning hub](https://contextqaai.github.io/testing-lab/) · [Stack/platform setup](https://github.com/contextqaai/testing-lab/blob/main/PLATFORMS.md) · [Report or reproduce an issue](https://github.com/contextqaai/testing-lab-react-payments/issues)
+
+This is an educational learning resource. Original source, licenses and credits remain intact. Public report links appear only after actual execution; recorded evidence is labeled separately from a fresh run.
